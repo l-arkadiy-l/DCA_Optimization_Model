@@ -1,4 +1,4 @@
-# win_dca_strategy
+# DCA Optimization Model
 
 The initial task I got in one of the interview and it looks like this:
 
